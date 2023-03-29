@@ -1,3 +1,6 @@
 # error.log  this for only one
 # this is for every file 
 *.log 
+# for complete folder
+demo/
+# *.css
